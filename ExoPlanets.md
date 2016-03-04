@@ -1,6 +1,7 @@
-## ExoPlanets Version Zero.
+# ExoPlanets Version Zero.
+### Data Science applied to Astronomy.
 
-# Astronomy:
+## Astronomy:
 
 Since 1996 it was confirmed several planets orbiting other stars in our galaxy.
 
@@ -9,7 +10,7 @@ Through the movement of the stars analysis (method of radial velocities) is dete
 Solar models of planetary formation are used to discuss possible planetary systems features not displayed yet. From observations of the solar system and the development of new stars there are several theories to explain the formation of gaseous and rocky planets.
 This work aims to organize and make a modeling of data from some planets through assumptions and comparisons with the solar system, and does not include all possibilities and not all planetary variables. Some important properties were not considered herein as pressure and high atmospheric, orbital eccentricity, axial tilt of the planet, latitude, and rotation.
 
-# Data Science
+## Data Science
 
 
 Provide the study, thinking, and physical solutions to the proposed problem.
