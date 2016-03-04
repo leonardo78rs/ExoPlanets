@@ -1,5 +1,6 @@
 # ExoPlanets Version Zero.
-### Data Science applied to Astronomy.
+#### Data Science applied to Astronomy.
+#### Study of Extrasolar Planets.
 
 ## Astronomy:
 
