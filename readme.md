@@ -2,7 +2,7 @@
 #### Data Science applied to Astronomy
 #### Study of Extrasolar Planets
 
-## Astronomy:
+## Astronomy
 
 Since 1996 it was confirmed several planets orbiting other stars in our galaxy.
 
